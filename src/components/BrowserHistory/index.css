@@ -1,0 +1,44 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.history-logo {
+  display: flex;
+  background-color: #3367d6;
+  width: 80vw;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.search-input-container {
+  display: flex;
+  justify-content: center;
+  margin-right: 340px;
+}
+
+.search-logo {
+  background-color: #2850a7;
+}
+
+.input-search {
+  margin-left: 40px;
+  width: 400px;
+  background-color: #2850a7;
+}
+
+.nill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #475569;
+  height: 90vh;
+}
+
+.searcharesultsContainer {
+  margin: 20px;
+  width: 60%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
